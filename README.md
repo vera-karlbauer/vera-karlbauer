@@ -1,7 +1,6 @@
 Vera Karlbauer
-- Cognitive neuroscience master's student at Maastricht University
-- Research intern at Max Planck Institute of Psychiatry
-- Interested in environmental and genetic risk for psychiatric disorders
+- PhD student at Max Planck Institute of Psychiatry
+- Interested psychiatric genetics & epigenetics
 
 
 <!---
