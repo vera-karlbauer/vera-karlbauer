@@ -1,6 +1,6 @@
 Vera Karlbauer
 - PhD student at Max Planck Institute of Psychiatry
-- Interested psychiatric genetics & epigenetics
+- Interested in psychiatric genetics & epigenetics
 
 
 <!---
